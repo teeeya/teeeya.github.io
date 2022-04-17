@@ -4,4 +4,4 @@ Welcome to the support page for the iGCSE Maths revision app!
 
 ### Support or Contact
 
-epoch.jot@gmail.com
+hello@igcse-maths.com
