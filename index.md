@@ -1,4 +1,4 @@
-## IGCSE Maths app
+## IGCSE Maths
 
 Welcome to the International GCSE Maths exam preparation app! Practice exam standard questions on the go and offline. Use the self marking features to predict your grade. Keep practising until you get that A!
 
