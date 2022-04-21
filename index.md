@@ -6,7 +6,7 @@ Brush up on any weak areas by revising topics in the revision section with easy 
 
 
 [![Download now](download_badge.png)](https://apps.apple.com/us/app/igcse-maths/id1599873639)
-
+[![Download now](google-play-badge.png)](https://play.google.com/store/apps/details?id=com.igcse.maths)
 
 ### Contact
 
